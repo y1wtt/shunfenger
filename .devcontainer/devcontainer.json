@@ -1,6 +1,7 @@
 {
 	"name" : "shunfenger",
 	"build": {
+		"context" : "../",
 		"dockerfile" : "./Dockerfile"
 	}
 }
