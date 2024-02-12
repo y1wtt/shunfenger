@@ -5,5 +5,4 @@ RUN pip install --no-cache-dir librosa keras torch
 
 COPY . .
 
-CMD ["bash"]
-
+CMD  ["bash"]
