@@ -1,0 +1,4 @@
+{
+	"name" : "shunfenger"
+	"build" : "../Dockerfile"
+}
